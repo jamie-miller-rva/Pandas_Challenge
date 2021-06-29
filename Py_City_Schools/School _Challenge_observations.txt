@@ -1,0 +1,23 @@
+ My First observation is that Charter schools out preform District schools, based on the data we reviewed above. 
+This is limited information and could be aided by
+1. # Of Teachers
+2. aides,
+3. Students with IEP's
+4. # Of admin staff (VP, AVP, Psychologists, Guidance)
+5. Class size
+6. Among other factor that we don’t have
+Given that this information is not available, and that budget data would lean towards telling you for the most part that both types of schools are equal.
+There are many factors that we do have in our data to back up my theory.Below I have run all schools as follows:
+1. School Type - this really only provides detail data that shows the reasons that charter schools outperform District schools but here you must look at each school and with 15 schools it not easy to see any trends.
+2. Total Students - Charter schools are the 8 smallest size schools. Given that that other info is not available. I would say that school size does matter somewhat. 
+3. Total School Budget - Charter schools are the 8 smallest in budget. Given that that other info is not available. I would say that budget does not matter and  the Charter Schools are more effective with their budget. 
+4. Per Student Budget - Charter schools are the 7 smallest in Per Student Budget, and the only one not in the group is the best preforming school overall. Given that that other info is not available. I would say that per student budget does not matter and the Charter Schools are more effective with their per student budget. 
+
+5. Average Math Score - Charter schools are the 8 highest in math scores. Given that that other info is not available. I would say that Charter Schools are more effective with teaching math. 
+
+6. Average Reading Scores - Charter schools are the 8 highest in reading scores. Given that that other info is not available. I would say that Charter Schools are more effective with teaching reading.
+7. Math Pass % - Charter schools are the 8 highest in math pass percentage. Given that that other info is not available. I would say that Charter Schools are more effective with teaching math.
+8. Reading Pass % - Charter schools are the 8 highest in reading pass percentage. Given that that other info is not available. I would say that Charter Schools are more effective with teaching reading.
+
+9. Overall Passing - Charter schools are the 8 highest in overall pass percentage. Given that that other info is not available. I would say that Charter Schools are more effective with teaching both math and reading.
+
